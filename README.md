@@ -8,6 +8,9 @@ Resources for teachers and parents looking at alternative methods to teach kids.
 ### Drawing
 - [Teach Your Kid to Draw](https://montessori-art.com/how-to-teach-children-drawing-even-if-you-dont-know-how/)
 
+### Reading
+- [Try Once - Early Reading Curriculum](https://tryonce.com/)
+
 ### Mathematics
 - [Teach Your Kid to Count](https://prek-math-te.stanford.edu/counting/what-children-know-and-need-learn-about-counting)
 - [Art of Problem Solving](https://artofproblemsolving.com/online)
