@@ -23,4 +23,10 @@ Resources for teachers and parents looking at alternative methods to teach kids.
 - [Hack Club](https://hackclub.com/)
     * [Blot The Plotter Bot](https://blot.hackclub.com/)
 
+### Intuition about the World
+- [KachaMucha magazine](https://kachamucha.in/)
 
+### Real world places
+- [Museum of Solutions, Mumbai](https://www.museumofsolutions.in/)
+- [Makers Asylum](https://www.makersasylum.com/)
+- [Tinkering School, USA](https://www.tinkeringschool.com/)
