@@ -16,6 +16,7 @@ Resources for teachers and parents looking at alternative methods to teach kids.
 - [Art of Problem Solving](https://artofproblemsolving.com/online)
 - [Beast Academy](https://beastacademy.com/)
 - [Math For Love](https://mathforlove.com/)
+- [How to Learn Mathematics: A Self-Study Roadmap](https://abakcus.com/articles/how-to-learn-mathematics)
 
 
 ### Programming and Hardware
